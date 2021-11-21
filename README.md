@@ -6,6 +6,9 @@
 
 ![tomlows GitHub stats](https://github-readme-stats.vercel.app/api?username=tomlows&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomlows)](https://github.com/tomlows/github-readme-stats)
+
+
 ## Tecnologias que eu uso no meu dia.!
 
 <div style="display: inline_block"><br>
