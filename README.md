@@ -25,7 +25,7 @@
   
   <br><br>
   
-  Apaixonado por tcnologia, educação e por mudar a vida das pessoas atraves da programação.!
+  Apaixonado por tecnologia, educação e por mudar a vida das pessoas atraves da programação.!
   
  
   ![Snake animation](https://github.com/tomlows/tomlows/blob/output/github-contribution-grid-snake.svg)
