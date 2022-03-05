@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/birobirobiro/birobirobiro/master/animation_500_kv8i962g.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
  Sou um desenvolvedor frontend em formação! Gosto MUITO da área de tecnologia, e tenho certeza que posso contribuir em qualquer time com as minhas habilidades. Estou sempre me desafiando com novos projetos e participando de comunidades de programação para buscar feedback de outros desenvolvedores e desenvolvedoras. Além de tentar ajudar essas pessoas com o que eu já aprendi. Ah, gosto de jogos, filmes, séries, animes e outras nerdices.
 <div>
- <br><br><br><br>
+ <br><br>
   <a href="https://github.com/tomlows">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomlows&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomlows&layout=compact&langs_count=6&theme=tokyonight"/>
