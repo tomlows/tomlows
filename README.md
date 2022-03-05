@@ -1,7 +1,7 @@
-### Olá! Eu Sou Weverton Lopes.!🖐️
-<img src="https://raw.githubusercontent.com/birobirobiro/birobirobiro/master/animation_500_kv8i962g.gif"  min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
-<div>
-  <p text-align="centro">
+### Olá! Eu Sou Weverton Lopes.!🖐️ 
+<img src="https://raw.githubusercontent.com/birobirobiro/birobirobiro/master/animation_500_kv8i962g.gif"  height="400" min-width="300px" max-width="300px" width="400px" align="right" alt="Computador iuriCode">
+<div >
+  <p>
  Sou um desenvolvedor frontend em formação! Gosto MUITO da área de tecnologia, e tenho certeza que posso contribuir em qualquer time com as minhas habilidades. Estou sempre me desafiando com novos projetos e participando de comunidades de programação para buscar feedback de outros desenvolvedores e desenvolvedoras. Além de tentar ajudar essas pessoas com o que eu já aprendi. Ah, gosto de jogos, filmes, séries, animes e outras nerdices.
   <p>
 </div>
