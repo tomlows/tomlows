@@ -1,8 +1,9 @@
-# Hi there 👋, My name is Weverton"
+
 
 <img width="100%" src="https://github.com/tomlows/banner-perfil/blob/projeto/html/github-header-image.png?raw=true" alt="my banner">
 
-
+Sou um desenvolvedor frontend em formação! Gosto MUITO da área de tecnologia, e tenho certeza que posso contribuir em
+qualquer time com as minhas habilidades. Estou sempre me desafiando com novos projetos e participando de comunidades de programação para buscar feedback de outros desenvolvedores e desenvolvedoras. Além de tentar ajudar essas pessoas com o que eu já aprendi. Ah, gosto de jogos, filmes, séries, animes e outras nerdices..
 
 ## 💫 Liitle Bit More About Me
 
