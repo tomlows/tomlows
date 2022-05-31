@@ -5,7 +5,6 @@
 Sou um desenvolvedor frontend em formação! Gosto MUITO da área de tecnologia, e tenho certeza que posso contribuir em
 qualquer time com as minhas habilidades. Estou sempre me desafiando com novos projetos e participando de comunidades de programação para buscar feedback de outros desenvolvedores e desenvolvedoras. Além de tentar ajudar essas pessoas com o que eu já aprendi. Ah, gosto de jogos, filmes, séries, animes e outras nerdices..
 
-## 💫 Liitle Bit More About Me
 
 ## 💻 Skills
 <p>
@@ -25,13 +24,3 @@ qualquer time com as minhas habilidades. Estou sempre me desafiando com novos pr
 <a href="https://www.instagram.com/https://www.instagram.com/tomlopws/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=">
-</p>
-
-## 📊 Github Status
