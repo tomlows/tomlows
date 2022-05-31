@@ -24,3 +24,4 @@ qualquer time com as minhas habilidades. Estou sempre me desafiando com novos pr
 <a href="https://www.instagram.com/https://www.instagram.com/tomlopws/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
+  ![Snake animation](https://github.com/tomlows/tomlows/blob/output/github-contribution-grid-snake.svg)
