@@ -24,4 +24,10 @@ qualquer time com as minhas habilidades. Estou sempre me desafiando com novos pr
 <a href="https://www.instagram.com/https://www.instagram.com/tomlopws/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
+<div>
+  <a href="https://github.com/tomlows">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomlows&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomlows&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+
   ![Snake animation](https://github.com/tomlows/tomlows/blob/output/github-contribution-grid-snake.svg)
